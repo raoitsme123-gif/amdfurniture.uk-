@@ -1,0 +1,11 @@
+﻿node_modules/
+dist/
+.env
+.env.*
+!.env.example
+
+# Private and temporary files
+data/auth.json
+data/bookings.json
+.aistudio/
+dev-dist/
